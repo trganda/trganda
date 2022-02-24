@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I'm [trganda](https://github.com/trganda)
+- 🌱 Security Researcher & Developer
+
 <!--
 **trganda/trganda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### GitHub Stats
+
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=trganda&theme=onedark&no-frame=true&column=4" />
+
+<img align="left" src="https://github-readme-stats-mrdulin.vercel.app/api?username=trganda&show_icons=true&hide_border=true&hide=prs&theme=radical">
