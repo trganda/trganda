@@ -18,6 +18,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Repositories
+
+- [yaml2http](https://github.com/trganda/yaml2http) Extension to use xray poc in burpsuite or cli
+- [wechat_article_spider](https://github.com/trganda/wechat_article_spider) Crawler tool for wechat
+- [dockerv](https://github.com/trganda/dockerv) Docker based vulnerability enviroment
+
 ### GitHub Stats
 
 <img align="left" src="https://github-profile-trophy.vercel.app/?username=trganda&theme=onedark&no-frame=true&column=4" />
