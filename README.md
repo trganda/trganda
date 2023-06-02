@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - [yaml2http](https://github.com/trganda/yaml2http) Extension to use xray poc in burpsuite or cli
 - [wechat_article_spider](https://github.com/trganda/wechat_article_spider) Crawler tool for wechat
 - [dockerv](https://github.com/trganda/dockerv) Docker based vulnerability enviroment
+- [obsidian-attachment-management](https://github.com/trganda/obsidian-attachment-management) Attachment management plugin of Obsidian
 
 ### GitHub Stats
 
