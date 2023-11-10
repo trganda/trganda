@@ -4,7 +4,7 @@
 - 🌱 Security Researcher & Developer
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://trganda.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/MarrowSix)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/JongSx50151)
 
 <!--
 **trganda/trganda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
